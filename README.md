@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/karthik24522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthiksl03" height="30" width="40" /></a>
+<a href="https://twitter.com/karthik24522" target="blank"><img align="center" src="https://github.com/itz-karthik/itz-karthik/blob/1aec6dc3ae0beaa09c8139eae6dbc460922d3cfd/x-social-media-logo-icon.svg" alt="karthiksl03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthik-s-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-s-l" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_karthik_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_karthik_03" height="30" width="40" /></a>
 </p>
